@@ -70,15 +70,14 @@ body {
     display: flex;
     justify-content: space-between
 }
-.Group3 {
+.Group2 div { 
     font-size: 12px;
+}
 
+#fl {
+    display: flex;
 }
 .Group4 {
     font-size: 12px;
-
-}
-.Group5 {
-    font-size: 12px;
-
+    margin: 0px 30px 0px 30px;
 }
