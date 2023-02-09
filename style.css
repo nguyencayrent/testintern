@@ -1,0 +1,84 @@
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 15px;
+	letter-spacing: 0.5px;
+	line-height: 1.5;
+	color: #1c1b1b;
+    margin: 0px;
+}
+.head {
+    display: flex;
+
+}
+.left {
+    background-color: black;
+    color: #fff;
+    width: 150px;
+    display: table;
+    /* height: 100px; */
+    
+}
+
+.left ul {
+    padding: 0px;
+    margin: 0px;
+}
+.left li {
+    background-color: black;
+    color: #ccc;
+    list-style-type: none;
+    /* width: 150px;
+    height: 44px; */
+    line-height: 50px;
+    padding-left: 16px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+}
+.left li:hover {
+    background-color: #dfdfdf;
+    color: #ffffffff;
+    list-style-type: none;
+    /* width: 150px;
+    height: 44px; */
+    line-height: 50px;
+    padding-left: 16px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+}
+.right {
+    width: 1200px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.right .logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+}
+.Group1 {
+    text-align: center;
+    width: auto;
+    height: 170px;
+    background-color: #ccc;
+    padding: 38px 100px 38px 100px;
+    margin-bottom: 20px;
+}
+.Group2 {
+    display: flex;
+    justify-content: space-between
+}
+.Group3 {
+    font-size: 12px;
+
+}
+.Group4 {
+    font-size: 12px;
+
+}
+.Group5 {
+    font-size: 12px;
+
+}
